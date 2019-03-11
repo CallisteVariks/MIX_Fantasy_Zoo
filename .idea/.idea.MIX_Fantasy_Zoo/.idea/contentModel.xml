@@ -290,14 +290,47 @@
             </e>
           </e>
         </e>
+        <e p="Models" t="Include">
+          <e p="Izzy" t="Include">
+            <e p="Document" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Max" t="Include">
+            <e p="Document" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="MeshSmith" t="Include">
+            <e p="ToonMonsterII" t="Include">
+              <e p="Toon Rock Golem" t="Include">
+                <e p="readme.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Mking" t="Include">
+            <e p="mLD3DShaders" t="Include">
+              <e p="LD3D_Specular.shader" t="Include" />
+              <e p="LD3D_SpecularEmissive.shader" t="Include" />
+            </e>
+            <e p="mScripts" t="Include">
+              <e p="MKdemoCtrl.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Rhino" t="Include">
+            <e p="Sheder" t="Include">
+              <e p="StandardDoubleSided.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Winston" t="Include">
+            <e p="Document" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="PlayServicesResolver" t="Include">
           <e p="Editor" t="Include">
             <e p="play-services-resolver_v1.2.95.0.txt" t="Include" />
-          </e>
-        </e>
-        <e p="Rhino" t="Include">
-          <e p="Sheder" t="Include">
-            <e p="StandardDoubleSided.shader" t="Include" />
           </e>
         </e>
         <e p="Scripts" t="Include">

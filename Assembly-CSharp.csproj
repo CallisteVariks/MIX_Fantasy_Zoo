@@ -239,16 +239,23 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSession.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSessionStatus.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
+    <Compile Include="Assets\Models\Mking\mScripts\MKdemoCtrl.cs" />
     <Compile Include="Assets\Scripts\LoadObjectsScript.cs" />
     <Compile Include="Assets\ToggleImagebar.cs" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\PlaneGrid.shader" />
+    <None Include="Assets\Models\Winston\Document\readme.txt" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
     <None Include="Assets\GoogleARCore\SDK\Materials\ARBackground.shader" />
     <None Include="Assets\GoogleARCore\Examples\AugmentedFaces\Materials\Shaders\AugmentedFaceOccluder.shader" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\PointCloud.shader" />
     <None Include="Assets\GoogleARCore\Examples\ComputerVision\Materials\EdgeDetectionBackground.shader" />
-    <None Include="Assets\Rhino\Sheder\StandardDoubleSided.shader" />
+    <None Include="Assets\Models\Mking\mLD3DShaders\LD3D_SpecularEmissive.shader" />
+    <None Include="Assets\Models\Rhino\Sheder\StandardDoubleSided.shader" />
+    <None Include="Assets\Models\MeshSmith\ToonMonsterII\Toon Rock Golem\readMe.txt" />
+    <None Include="Assets\Models\Max\Document\readme.txt" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\MobileSpecularWithLightEstimation.shader" />
+    <None Include="Assets\Models\Izzy\Document\readme.txt" />
+    <None Include="Assets\Models\Mking\mLD3DShaders\LD3D_Specular.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

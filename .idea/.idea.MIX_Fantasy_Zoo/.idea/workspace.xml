@@ -1,7 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da0f0333-9be3-4235-930a-b13830978d66" name="Default Changelist" comment="" />
+    <list default="true" id="da0f0333-9be3-4235-930a-b13830978d66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MIX_Fantasy_Zoo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MIX_Fantasy_Zoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MIX_Fantasy_Zoo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Materials/ARBackground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Materials/ARBackground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Materials/Rhino_PBR.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Materials/Rhino_PBR.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Materials/No Name.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Materials/No Name.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Materials/Rhinoceros_Albedo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Materials/Rhinoceros_Albedo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Rino_mesh.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Mesh/Rino_mesh.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Prefab/Rhino_PBR.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Prefab/Rhino_PBR.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Rhino.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Rhino.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Sheder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Sheder/StandardDoubleSided.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Sheder/StandardDoubleSided.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Albedo.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Albedo.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Ao.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Ao.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Emissive.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Emissive.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Metallic.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_Metallic.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_normals.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/Texture/Rhinoceros_normals.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Materials/No Name.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Materials/No Name.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Materials/Rhinoceros_Albedo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Materials/Rhinoceros_Albedo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Attack.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Attack.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Dead.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Dead.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Eats.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Eats.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Get_Hit.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Get_Hit.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@Walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@shout.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rhino/animation/Rhino@shout.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ToggleImagebar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ToggleImagebar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/0_Small red dragon.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/0_Small red dragon.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_die.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_die.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_hurt.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_hurt.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_skill1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_skill1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_skill2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_skill2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_wait.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Animation/sj001_wait.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Materials/SJ001.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Materials/SJ001.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Materials/SJ001.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Materials/SJ001.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Prefab/SJ001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/Prefab/SJ001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_die.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_die.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_hurt.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_hurt.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_skill1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_skill1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_skill2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_skill2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_wait.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/c_xiao_huo_long1/c_xiao_huo_long/SJ001_wait.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/ScriptLayoutHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/ScriptLayoutHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/2fd072-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/2fd072-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e479e4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e479e4-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01d2c094f5b70b24295c04d9949815d7" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01d2c094f5b70b24295c04d9949815d7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/03/03ad0130a037647aeb60218f61aca114.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/03/03ad0130a037647aeb60218f61aca114.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/07/07f4dcf951ad1da47bc8706c4ea8bf46" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/07/07f4dcf951ad1da47bc8706c4ea8bf46" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/09/09043a518e9744949abd6b5dad10d233" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/09/09043a518e9744949abd6b5dad10d233" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0a/0aa307174652d82429e8b8db57c20740" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0a/0aa307174652d82429e8b8db57c20740" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/11/1188eebf8ba2ecf479ef0462b4701a91" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/11/1188eebf8ba2ecf479ef0462b4701a91" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/16/16281947a81e49043bc624333ec697c8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/16/16281947a81e49043bc624333ec697c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/18/18d1c5351d7696e47bb90f8d6a53db33" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/18/18d1c5351d7696e47bb90f8d6a53db33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/200a1f3ddb78cec42b20bd33ec781777" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/20/200a1f3ddb78cec42b20bd33ec781777" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/23/2357bdd96b6ce844fa79e39acd2bdbbc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/23/2357bdd96b6ce844fa79e39acd2bdbbc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/34/347e0908727f90040bd8fe0bf017bdb2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/34/347e0908727f90040bd8fe0bf017bdb2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3b/3b23d5023ebc8f149960bca44f792173" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3b/3b23d5023ebc8f149960bca44f792173" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/42/42646a1bcaa39704488463bef6431695" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/42/42646a1bcaa39704488463bef6431695" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/49/494dff0ae6b6467409f1ce189d6e8784" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/49/494dff0ae6b6467409f1ce189d6e8784" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4b057f53949d0934489008c42a043c99" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4b057f53949d0934489008c42a043c99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4bdc563bac4404145a0b5bf86f93f108" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4bdc563bac4404145a0b5bf86f93f108" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4d16b89b9544e754ebc5c0d3da231b36" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4d16b89b9544e754ebc5c0d3da231b36" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4f/4f40c3038f784c54fb31f0dee2a84bf9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4f/4f40c3038f784c54fb31f0dee2a84bf9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5a/5aa1b34a0a2e0f648821b31cf42af812" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5a/5aa1b34a0a2e0f648821b31cf42af812" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/5b/5b058bf656491924c9a43ee696277780" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5b/5b058bf656491924c9a43ee696277780" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/63/632fadb8876dd6442ba5564eba992765" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/63/632fadb8876dd6442ba5564eba992765" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6b/6b41193dabb2d4941a853524b434eee1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6b/6b41193dabb2d4941a853524b434eee1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6d/6d31de2d72f51ff419aae0e2805a741c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6d/6d31de2d72f51ff419aae0e2805a741c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/72bc097e8de27b547a3dce9f18a3179d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/72/72bc097e8de27b547a3dce9f18a3179d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/73/734614a0bc7aadd4588eeddce6d1a241" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/73/734614a0bc7aadd4588eeddce6d1a241" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/79/793b276440fa9d34f98fb58b4867eb6d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/79/793b276440fa9d34f98fb58b4867eb6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/7a/7ae89d5fdd4e7e745912cd319f77a7cc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/7a/7ae89d5fdd4e7e745912cd319f77a7cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/82/821c05e2d38b05a46a76bc9e749a8281" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/82/821c05e2d38b05a46a76bc9e749a8281" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/8f/8f1975d1d02d0fc4caad69e4dbe3a118" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8f/8f1975d1d02d0fc4caad69e4dbe3a118" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/91/914ab984efe5f4f498cb9ee5689c82a6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/914ab984efe5f4f498cb9ee5689c82a6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/91/91dc02ec329eab24e8ffc1dc17ba9d2c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/91dc02ec329eab24e8ffc1dc17ba9d2c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/99/994df112666bc73458afa7cd48a36acc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/99/994df112666bc73458afa7cd48a36acc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/99/99ccc1c31375d3348a23d379d8498f16" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/99/99ccc1c31375d3348a23d379d8498f16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9a/9a96a7474eedb644e981724156e7236d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9a/9a96a7474eedb644e981724156e7236d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9c/9c5f11275197ada48bbfaf3964291e94" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9c/9c5f11275197ada48bbfaf3964291e94" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a2/a2cd2cbace323984280bd454427467b3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a2/a2cd2cbace323984280bd454427467b3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a3/a3c7e290bf30c9a43b63dc738a03a60a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a3/a3c7e290bf30c9a43b63dc738a03a60a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a8/a82cf663ab4af584e95dee25f22fd625" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a8/a82cf663ab4af584e95dee25f22fd625" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ad/ad353623c0c90424ea56cef1a4afcc53" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ad/ad353623c0c90424ea56cef1a4afcc53" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b2/b2ea1f03087735a4f8541cac7f829208" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b2/b2ea1f03087735a4f8541cac7f829208" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b8/b8d09f421f21d0f4ebe1c67558871aac" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b8/b8d09f421f21d0f4ebe1c67558871aac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c0a37df8df1039d47aca86b7c03a8876" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c0/c0a37df8df1039d47aca86b7c03a8876" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c2/c24f8292316c5a84e9c188f8cfd0b9fa" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c2/c24f8292316c5a84e9c188f8cfd0b9fa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c2/c2b7462c0377da74681c92722359d9c9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c2/c2b7462c0377da74681c92722359d9c9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c5f3f4ca9c6c29c4ca58a8f6de88315b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c5/c5f3f4ca9c6c29c4ca58a8f6de88315b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d59aa6b28a2bdab41bb933ddd808b594" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d59aa6b28a2bdab41bb933ddd808b594" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d7/d7aaa5a81dbc61048bfe576bfbb674f8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d7/d7aaa5a81dbc61048bfe576bfbb674f8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/db/db834b4988164f04bb3dd45f145ffb03" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/db/db834b4988164f04bb3dd45f145ffb03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/dd/dd0e2e281dc443e4781a86f2d9de0904" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/dd/dd0e2e281dc443e4781a86f2d9de0904" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e8/e81768ff5ffe78c458874d90bdb2a6c8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e8/e81768ff5ffe78c458874d90bdb2a6c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e9/e96e95d24e692924a91d3aa8615347e2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e9/e96e95d24e692924a91d3aa8615347e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/ebaa08e174cc3484e973f5490d584ac3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/ebaa08e174cc3484e973f5490d584ac3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ee/ee6ce4597351e9b4fbcd1efe7eddbb00" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ee/ee6ce4597351e9b4fbcd1efe7eddbb00" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f5/f5bf1adb01a3b264383d4771594978fd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f5/f5bf1adb01a3b264383d4771594978fd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fd/fd0a8e8e59235ab43acaaeda70214c7f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fd/fd0a8e8e59235ab43acaaeda70214c7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ff/ff3dd417bb566b849b752ce57810bbf5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ff/ff3dd417bb566b849b752ce57810bbf5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +206,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/AndyPlacementManipulator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="705">
               <caret line="50" column="62" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="62" />
               <folding>
                 <marker date="1550102255000" expanded="true" signature="0:841" ph="/* ----------------------------------------------------------------------- ... */" />
@@ -44,7 +237,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="705">
               <caret line="49" column="40" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="40" />
               <folding>
                 <marker date="1551797715721" expanded="true" signature="0:835" ph="/* ----------------------------------------------------------------------- ... */" />
@@ -86,7 +279,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadObjectsScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="165">
               <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <marker date="1551798567498" expanded="false" signature="6:163" ph="..." />
@@ -100,14 +293,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ToggleImagebar.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding>
-                <marker date="1551800684191" expanded="false" signature="6:78" ph="..." />
-                <marker date="1551800684191" expanded="true" signature="138:453" ph="{...}" />
-                <marker date="1551800684191" expanded="true" signature="243:264" ph="{...}" />
-                <marker date="1551800684191" expanded="true" signature="322:343" ph="{...}" />
-                <marker date="1551800684191" expanded="true" signature="374:451" ph="{...}" />
+                <marker date="1552315041154" expanded="true" signature="6:78" ph="..." />
+                <marker date="1552315041154" expanded="true" signature="123:254" ph="{...}" />
+                <marker date="1552315041154" expanded="true" signature="190:252" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,7 +307,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-795">
+            <state>
               <folding>
                 <marker date="1550102255000" expanded="true" signature="0:834" ph="/* ----------------------------------------------------------------------- ... */" />
                 <marker date="1550102255000" expanded="true" signature="875:7381" ph="{...}" />
@@ -161,7 +352,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/Manipulator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
+            <state relative-caret-position="5700">
               <caret line="414" column="13" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
               <folding>
                 <marker date="1550102255000" expanded="true" signature="0:828" ph="/* ----------------------------------------------------------------------- ... */" />
@@ -284,6 +475,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/Manipulator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -314,9 +508,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -360,8 +551,11 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,11 +604,12 @@
       <updated>1551706507832</updated>
       <workItem from="1551706516916" duration="664000" />
       <workItem from="1551790729646" duration="5025000" />
+      <workItem from="1552314776349" duration="865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5689000" />
+    <option name="totallyTimeSpent" value="6554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,7 +623,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2595949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -568,16 +763,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Red Dragon Script.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Red Dragon Script.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/AndyPlacementManipulator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="705">
+          <caret line="50" column="62" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="62" />
+          <folding>
+            <marker date="1550102255000" expanded="true" signature="0:841" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1550102255000" expanded="true" signature="893:4439" ph="{...}" />
+            <marker date="1550102255000" expanded="false" signature="906:942" ph="..." />
+            <marker date="1550102255000" expanded="true" signature="948:1046" ph="/// Controls the placement of Andy objects via a tap gesture. ... " />
+            <marker date="1550102255000" expanded="true" signature="1102:4437" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="1117:1261" ph="/// The first-person camera being used to render the passthrough camera image (i.e. AR background). ... " />
+            <marker date="1550102255000" expanded="true" signature="1312:1424" ph="/// A model to place when a raycast from a user touch hits a plane. ... " />
+            <marker date="1550102255000" expanded="true" signature="1472:1568" ph="/// Manipulator prefab to attach placed objects to. ... " />
+            <marker date="1550102255000" expanded="true" signature="1623:1877" ph="/// Returns true if the manipulation can be started for the given gesture. ... " />
+            <marker date="1550102255000" expanded="true" signature="1960:2110" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2016:2073" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2120:2279" ph="/// Function called when the manipulation is ended. ... " />
+            <marker date="1550102255000" expanded="true" signature="2349:4431" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2397:2449" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2567:2619" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2925:4421" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2956:3097" ph="/* Use hit pose and camera pose to check if hittest is from the ... */" />
+            <marker date="1550102255000" expanded="true" signature="3304:3415" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3436:4407" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3937:4065" ph="/* Create an anchor to allow ARCore to track the hitpoint as understanding of the physical ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <marker date="1551797715721" expanded="true" signature="0:835" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1551797715721" expanded="true" signature="887:5510" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="918:1356" ph="/// Manipulation system allows the user to manipulate virtual objects (select, translate, ... " />
+            <marker date="1551797715721" expanded="true" signature="1408:5508" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="1985:2071" ph="/// Gets the ManipulationSystem instance. ... " />
+            <marker date="1551797715721" expanded="true" signature="2121:2712" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2147:2702" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2201:2652" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2362:2467" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2492:2634" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2722:2804" ph="/// Gets the Drag gesture recognizer. ... " />
+            <marker date="1551797715721" expanded="true" signature="2863:2935" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="2945:3028" ph="/// Gets the Pinch gesture recognizer. ... " />
+            <marker date="1551797715721" expanded="true" signature="3089:3162" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="3172:3265" ph="/// Gets the two finger drag gesture recognizer. ... " />
+            <marker date="1551797715721" expanded="true" signature="3342:3423" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="3433:3514" ph="/// Gets the Tap gesture recognizer. ... " />
+            <marker date="1551797715721" expanded="true" signature="3571:3642" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="3652:3735" ph="/// Gets the Twist gesture recognizer. ... " />
+            <marker date="1551797715721" expanded="true" signature="3796:3869" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="3879:3961" ph="/// Gets the current selected object. ... " />
+            <marker date="1551797715721" expanded="true" signature="4034:4108" ph="/// The Unity Awake() method. ... " />
+            <marker date="1551797715721" expanded="true" signature="4136:4591" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="4180:4537" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="4601:4676" ph="/// The Unity Update() method. ... " />
+            <marker date="1551797715721" expanded="true" signature="4705:4955" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="4965:5051" ph="/// Deselects the selected object if any. ... " />
+            <marker date="1551797715721" expanded="true" signature="5084:5139" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="5149:5278" ph="/// Select an object. ... " />
+            <marker date="1551797715721" expanded="true" signature="5326:5502" ph="{...}" />
+            <marker date="1551797715721" expanded="true" signature="5378:5430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadObjectsScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1551798567498" expanded="false" signature="6:163" ph="..." />
+            <marker date="1551798567498" expanded="true" signature="211:538" ph="{...}" />
+            <marker date="1551798567498" expanded="true" signature="428:536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1550102255000" expanded="true" signature="0:834" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1550102255000" expanded="true" signature="875:7381" ph="{...}" />
+            <marker date="1550102255000" expanded="false" signature="888:1140" ph="..." />
+            <marker date="1550102255000" expanded="true" signature="1153:1223" ph="/// Controls the HelloAR example. ... " />
+            <marker date="1550102255000" expanded="true" signature="1274:7379" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="1289:1433" ph="/// The first-person camera being used to render the passthrough camera image (i.e. AR background). ... " />
+            <marker date="1550102255000" expanded="true" signature="1484:1587" ph="/// A prefab for tracking and visualizing detected planes. ... " />
+            <marker date="1550102255000" expanded="true" signature="1644:1756" ph="/// A model to place when a raycast from a user touch hits a plane. ... " />
+            <marker date="1550102255000" expanded="true" signature="1809:1929" ph="/// A model to place when a raycast from a user touch hits a feature point. ... " />
+            <marker date="1550102255000" expanded="true" signature="1982:2108" ph="/// The rotation in degrees need to apply to model when the Andy model is placed. ... " />
+            <marker date="1550102255000" expanded="true" signature="2172:2318" ph="/// True if the app is in the process of quitting due to an ARCore connection error, otherwise false. ... " />
+            <marker date="1550102255000" expanded="true" signature="2371:2446" ph="/// The Unity Update() method. ... " />
+            <marker date="1550102255000" expanded="true" signature="2475:4801" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="2736:2788" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3146:4791" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3177:3318" ph="/* Use hit pose and camera pose to check if hittest is from the ... */" />
+            <marker date="1550102255000" expanded="true" signature="3525:3636" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3657:4777" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3846:3940" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="3965:4059" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="4429:4557" ph="/* Create an anchor to allow ARCore to track the hitpoint as understanding of the physical ... */" />
+            <marker date="1550102255000" expanded="true" signature="4811:4903" ph="/// Check and update the application lifecycle. ... " />
+            <marker date="1550102255000" expanded="true" signature="4954:6261" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="5073:5137" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="5261:5410" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="5427:5518" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="5549:5601" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="5779:5983" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="6030:6251" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="6271:6350" ph="/// Actually quit the application. ... " />
+            <marker date="1550102255000" expanded="true" signature="6381:6433" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="6443:6601" ph="/// Show an Android toast message. ... " />
+            <marker date="1550102255000" expanded="true" signature="6663:7373" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="6919:7363" ph="{...}" />
+            <marker date="1550102255000" expanded="true" signature="7107:7346" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/Manipulator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
+        <state relative-caret-position="5700">
           <caret line="414" column="13" selection-start-line="414" selection-start-column="13" selection-end-line="414" selection-end-column="13" />
           <folding>
             <marker date="1550102255000" expanded="true" signature="0:828" ph="/* ----------------------------------------------------------------------- ... */" />
@@ -697,140 +1010,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-795">
-          <folding>
-            <marker date="1550102255000" expanded="true" signature="0:834" ph="/* ----------------------------------------------------------------------- ... */" />
-            <marker date="1550102255000" expanded="true" signature="875:7381" ph="{...}" />
-            <marker date="1550102255000" expanded="false" signature="888:1140" ph="..." />
-            <marker date="1550102255000" expanded="true" signature="1153:1223" ph="/// Controls the HelloAR example. ... " />
-            <marker date="1550102255000" expanded="true" signature="1274:7379" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="1289:1433" ph="/// The first-person camera being used to render the passthrough camera image (i.e. AR background). ... " />
-            <marker date="1550102255000" expanded="true" signature="1484:1587" ph="/// A prefab for tracking and visualizing detected planes. ... " />
-            <marker date="1550102255000" expanded="true" signature="1644:1756" ph="/// A model to place when a raycast from a user touch hits a plane. ... " />
-            <marker date="1550102255000" expanded="true" signature="1809:1929" ph="/// A model to place when a raycast from a user touch hits a feature point. ... " />
-            <marker date="1550102255000" expanded="true" signature="1982:2108" ph="/// The rotation in degrees need to apply to model when the Andy model is placed. ... " />
-            <marker date="1550102255000" expanded="true" signature="2172:2318" ph="/// True if the app is in the process of quitting due to an ARCore connection error, otherwise false. ... " />
-            <marker date="1550102255000" expanded="true" signature="2371:2446" ph="/// The Unity Update() method. ... " />
-            <marker date="1550102255000" expanded="true" signature="2475:4801" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2736:2788" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3146:4791" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3177:3318" ph="/* Use hit pose and camera pose to check if hittest is from the ... */" />
-            <marker date="1550102255000" expanded="true" signature="3525:3636" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3657:4777" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3846:3940" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3965:4059" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="4429:4557" ph="/* Create an anchor to allow ARCore to track the hitpoint as understanding of the physical ... */" />
-            <marker date="1550102255000" expanded="true" signature="4811:4903" ph="/// Check and update the application lifecycle. ... " />
-            <marker date="1550102255000" expanded="true" signature="4954:6261" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="5073:5137" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="5261:5410" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="5427:5518" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="5549:5601" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="5779:5983" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="6030:6251" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="6271:6350" ph="/// Actually quit the application. ... " />
-            <marker date="1550102255000" expanded="true" signature="6381:6433" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="6443:6601" ph="/// Show an Android toast message. ... " />
-            <marker date="1550102255000" expanded="true" signature="6663:7373" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="6919:7363" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="7107:7346" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/AndyPlacementManipulator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="50" column="62" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="62" />
-          <folding>
-            <marker date="1550102255000" expanded="true" signature="0:841" ph="/* ----------------------------------------------------------------------- ... */" />
-            <marker date="1550102255000" expanded="true" signature="893:4439" ph="{...}" />
-            <marker date="1550102255000" expanded="false" signature="906:942" ph="..." />
-            <marker date="1550102255000" expanded="true" signature="948:1046" ph="/// Controls the placement of Andy objects via a tap gesture. ... " />
-            <marker date="1550102255000" expanded="true" signature="1102:4437" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="1117:1261" ph="/// The first-person camera being used to render the passthrough camera image (i.e. AR background). ... " />
-            <marker date="1550102255000" expanded="true" signature="1312:1424" ph="/// A model to place when a raycast from a user touch hits a plane. ... " />
-            <marker date="1550102255000" expanded="true" signature="1472:1568" ph="/// Manipulator prefab to attach placed objects to. ... " />
-            <marker date="1550102255000" expanded="true" signature="1623:1877" ph="/// Returns true if the manipulation can be started for the given gesture. ... " />
-            <marker date="1550102255000" expanded="true" signature="1960:2110" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2016:2073" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2120:2279" ph="/// Function called when the manipulation is ended. ... " />
-            <marker date="1550102255000" expanded="true" signature="2349:4431" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2397:2449" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2567:2619" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2925:4421" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="2956:3097" ph="/* Use hit pose and camera pose to check if hittest is from the ... */" />
-            <marker date="1550102255000" expanded="true" signature="3304:3415" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3436:4407" ph="{...}" />
-            <marker date="1550102255000" expanded="true" signature="3937:4065" ph="/* Create an anchor to allow ARCore to track the hitpoint as understanding of the physical ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="49" column="40" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <marker date="1551797715721" expanded="true" signature="0:835" ph="/* ----------------------------------------------------------------------- ... */" />
-            <marker date="1551797715721" expanded="true" signature="887:5510" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="918:1356" ph="/// Manipulation system allows the user to manipulate virtual objects (select, translate, ... " />
-            <marker date="1551797715721" expanded="true" signature="1408:5508" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="1985:2071" ph="/// Gets the ManipulationSystem instance. ... " />
-            <marker date="1551797715721" expanded="true" signature="2121:2712" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2147:2702" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2201:2652" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2362:2467" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2492:2634" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2722:2804" ph="/// Gets the Drag gesture recognizer. ... " />
-            <marker date="1551797715721" expanded="true" signature="2863:2935" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="2945:3028" ph="/// Gets the Pinch gesture recognizer. ... " />
-            <marker date="1551797715721" expanded="true" signature="3089:3162" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="3172:3265" ph="/// Gets the two finger drag gesture recognizer. ... " />
-            <marker date="1551797715721" expanded="true" signature="3342:3423" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="3433:3514" ph="/// Gets the Tap gesture recognizer. ... " />
-            <marker date="1551797715721" expanded="true" signature="3571:3642" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="3652:3735" ph="/// Gets the Twist gesture recognizer. ... " />
-            <marker date="1551797715721" expanded="true" signature="3796:3869" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="3879:3961" ph="/// Gets the current selected object. ... " />
-            <marker date="1551797715721" expanded="true" signature="4034:4108" ph="/// The Unity Awake() method. ... " />
-            <marker date="1551797715721" expanded="true" signature="4136:4591" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="4180:4537" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="4601:4676" ph="/// The Unity Update() method. ... " />
-            <marker date="1551797715721" expanded="true" signature="4705:4955" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="4965:5051" ph="/// Deselects the selected object if any. ... " />
-            <marker date="1551797715721" expanded="true" signature="5084:5139" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="5149:5278" ph="/// Select an object. ... " />
-            <marker date="1551797715721" expanded="true" signature="5326:5502" ph="{...}" />
-            <marker date="1551797715721" expanded="true" signature="5378:5430" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadObjectsScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <marker date="1551798567498" expanded="false" signature="6:163" ph="..." />
-            <marker date="1551798567498" expanded="true" signature="211:538" ph="{...}" />
-            <marker date="1551798567498" expanded="true" signature="428:536" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ToggleImagebar.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1551800684191" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551800684191" expanded="true" signature="138:453" ph="{...}" />
-            <marker date="1551800684191" expanded="true" signature="243:264" ph="{...}" />
-            <marker date="1551800684191" expanded="true" signature="322:343" ph="{...}" />
-            <marker date="1551800684191" expanded="true" signature="374:451" ph="{...}" />
+            <marker date="1552315041154" expanded="true" signature="6:78" ph="..." />
+            <marker date="1552315041154" expanded="true" signature="123:254" ph="{...}" />
+            <marker date="1552315041154" expanded="true" signature="190:252" ph="{...}" />
           </folding>
         </state>
       </provider>
