@@ -1686,8 +1686,8 @@ GameObject:
   - component: {fileID: 11100000}
   - component: {fileID: 1567669517525302388}
   m_Layer: 0
-  m_Name: SJ001
-  m_TagString: Untagged
+  m_Name: RedBabyDragon
+  m_TagString: redDragon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

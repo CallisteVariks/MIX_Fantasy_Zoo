@@ -240,10 +240,10 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPSessionStatus.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
     <Compile Include="Assets\Models\Mking\mScripts\MKdemoCtrl.cs" />
+    <Compile Include="Assets\Scripts\AnimController.cs" />
     <Compile Include="Assets\Scripts\LoadObjectsScript.cs" />
-    <Compile Include="Assets\ToggleImagebar.cs" />
+    <Compile Include="Assets\Scripts\ToggleImagebar.cs" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\PlaneGrid.shader" />
-    <None Include="Assets\Models\Winston\Document\readme.txt" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
     <None Include="Assets\GoogleARCore\SDK\Materials\ARBackground.shader" />
     <None Include="Assets\GoogleARCore\Examples\AugmentedFaces\Materials\Shaders\AugmentedFaceOccluder.shader" />
@@ -252,24 +252,22 @@
     <None Include="Assets\Models\Mking\mLD3DShaders\LD3D_SpecularEmissive.shader" />
     <None Include="Assets\Models\Rhino\Sheder\StandardDoubleSided.shader" />
     <None Include="Assets\Models\MeshSmith\ToonMonsterII\Toon Rock Golem\readMe.txt" />
-    <None Include="Assets\Models\Max\Document\readme.txt" />
     <None Include="Assets\GoogleARCore\Examples\Common\Materials\Shaders\MobileSpecularWithLightEstimation.shader" />
-    <None Include="Assets\Models\Izzy\Document\readme.txt" />
     <None Include="Assets\Models\Mking\mLD3DShaders\LD3D_Specular.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -473,13 +471,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/ICT/7th semester/MIX/Projects/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Halo/Documents/GitHub/MIX_Fantasy_Zoo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

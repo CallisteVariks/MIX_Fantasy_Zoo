@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\andre\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\andre\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MIX_Fantasy_Zoo.-1536613569.00" t="ExcludeRecursive" />
-    <e p="D:\ICT\7th semester\MIX\Projects\MIX_Fantasy_Zoo" t="IncludeRecursive">
+    <e p="C:\Users\Halo\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Halo\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MIX_Fantasy_Zoo.965145804.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Halo\Documents\GitHub\MIX_Fantasy_Zoo" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -291,16 +291,6 @@
           </e>
         </e>
         <e p="Models" t="Include">
-          <e p="Izzy" t="Include">
-            <e p="Document" t="Include">
-              <e p="readme.txt" t="Include" />
-            </e>
-          </e>
-          <e p="Max" t="Include">
-            <e p="Document" t="Include">
-              <e p="readme.txt" t="Include" />
-            </e>
-          </e>
           <e p="MeshSmith" t="Include">
             <e p="ToonMonsterII" t="Include">
               <e p="Toon Rock Golem" t="Include">
@@ -322,11 +312,6 @@
               <e p="StandardDoubleSided.shader" t="Include" />
             </e>
           </e>
-          <e p="Winston" t="Include">
-            <e p="Document" t="Include">
-              <e p="readme.txt" t="Include" />
-            </e>
-          </e>
         </e>
         <e p="PlayServicesResolver" t="Include">
           <e p="Editor" t="Include">
@@ -334,9 +319,10 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AnimController.cs" t="Include" />
           <e p="LoadObjectsScript.cs" t="Include" />
+          <e p="ToggleImagebar.cs" t="Include" />
         </e>
-        <e p="ToggleImagebar.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="MIX_Fantasy_Zoo.sln" t="IncludeFlat" />

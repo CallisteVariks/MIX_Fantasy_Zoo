@@ -8,7 +8,6 @@ public class LoadObjectsScript : MonoBehaviour
 {
 
     public AndyPlacementManipulator arManipulator;
-    public HelloARController arController;
     public GameObject object3d;
     
     // Start is called before the first frame update

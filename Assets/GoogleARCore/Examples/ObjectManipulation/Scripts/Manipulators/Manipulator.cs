@@ -18,6 +18,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
+using UnityEngine.UI;
+
 namespace GoogleARCore.Examples.ObjectManipulation
 {
     using UnityEngine;
@@ -31,12 +33,38 @@ namespace GoogleARCore.Examples.ObjectManipulation
 
         private GameObject m_SelectedObject;
 
+        public GameObject InfoPanel;
+        public GameObject SkillsPanel;
+
+
         /// <summary>
         /// Makes this game object become the Selected Object.
         /// </summary>
         public void Select()
         {
             ManipulationSystem.Instance.Select(gameObject);
+
+            if (gameObject != null && !gameObject.CompareTag(""))
+                LoadPanels(gameObject);
+        }
+
+        private void LoadPanels(GameObject gameObject)
+        {
+            Text text = InfoPanel.GetComponentInChildren<Text>();
+            Button[] buttons = SkillsPanel.GetComponentsInChildren<Button>();
+
+            switch (gameObject.tag)
+            {
+                case "redDragon":
+                    text.text =
+                        "The model of a red baby dragon. Even at such " +
+                        "young age this western type dragon is very ferocious and territorial.";
+                    break;
+            }
+
+            buttons[0].onClick.AddListener(() => buttons[0].GetComponent<Scripts.AnimController>().Anim1(gameObject));
+            buttons[1].onClick.AddListener(() => buttons[1].GetComponent<Scripts.AnimController>().Anim2(gameObject));
+            buttons[2].onClick.AddListener(() => buttons[2].GetComponent<Scripts.AnimController>().Anim3(gameObject));
         }
 
         /// <summary>
@@ -415,6 +443,7 @@ namespace GoogleARCore.Examples.ObjectManipulation
             {
                 return;
             }
+            // Load description and skills panel
 
             if (CanStartManipulationForGesture(gesture))
             {
