@@ -1005,6 +1005,7 @@ GameObject:
   - component: {fileID: 487046}
   - component: {fileID: 9524236}
   - component: {fileID: 11421528}
+  - component: {fileID: 5561613707342396267}
   m_Layer: 0
   m_Name: MK_Demo
   m_TagString: Untagged
@@ -1061,16 +1062,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bd31874fbd85cf44bb2594e211e57d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CrownItem: {fileID: 0}
-  ShoulderItem: {fileID: 0}
-  MKBarItem: {fileID: 0}
+  CrownItem: {fileID: 184648}
+  ShoulderItem: {fileID: 196038}
+  MKBarItem: {fileID: 176284}
   currentAnim: 0
   AnimDisplayed: {fileID: 0}
   tCrown: {fileID: 0}
   tShoulder: {fileID: 0}
   tMKBar: {fileID: 0}
-  MKanimator: {fileID: 0}
+  MKanimator: {fileID: 9524236}
   animationList: []
+--- !u!65 &5561613707342396267
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168800}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.64962995, y: 1.8558049, z: 0.40079877}
+  m_Center: {x: 0.01222223, y: 0.908393, z: -0.06676553}
 --- !u!1 &169588
 GameObject:
   m_ObjectHideFlags: 0

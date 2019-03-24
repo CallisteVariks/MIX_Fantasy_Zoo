@@ -18,6 +18,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
+using System;
+
 namespace GoogleARCore.Examples.ObjectManipulation
 {
     using UnityEngine;
@@ -43,6 +45,11 @@ namespace GoogleARCore.Examples.ObjectManipulation
         private TapGestureRecognizer m_TapGestureRecognizer = new TapGestureRecognizer();
 
         private TwistGestureRecognizer m_TwistGestureRecognizer = new TwistGestureRecognizer();
+
+
+        public GameObject InfoPanel;
+        public GameObject SkillsPanel;
+
 
         /// <summary>
         /// Gets the ManipulationSystem instance.
@@ -158,11 +165,41 @@ namespace GoogleARCore.Examples.ObjectManipulation
         {
             if (SelectedObject == target)
             {
+                LoadPanels(target);
                 return;
             }
 
             Deselect();
             SelectedObject = target;
+        }
+
+        private void LoadPanels(GameObject go)
+        {
+            InfoPanel.SetActive(true);
+            SkillsPanel.SetActive(true);
+
+            UnityEngine.UI.Text text = InfoPanel.GetComponentInChildren<UnityEngine.UI.Text>();
+            UnityEngine.UI.Button[] buttons = SkillsPanel.GetComponentsInChildren<UnityEngine.UI.Button>();
+
+            switch (go.tag)
+            {
+                case "redDragon":
+                    text.text =
+                        "The model of a red baby dragon. Even at such " +
+                        "young age this western type dragon is very ferocious and territorial.";
+                    break;
+            }
+
+            try
+            {
+                buttons[0].onClick.AddListener(() => buttons[0].GetComponent<Scripts.AnimController>().Anim1(go));
+                buttons[1].onClick.AddListener(() => buttons[1].GetComponent<Scripts.AnimController>().Anim2(go));
+                buttons[2].onClick.AddListener(() => buttons[2].GetComponent<Scripts.AnimController>().Anim3(go));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
     }
 }

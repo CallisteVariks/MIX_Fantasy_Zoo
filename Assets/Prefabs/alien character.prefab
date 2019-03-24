@@ -1874,6 +1874,8 @@ GameObject:
   m_Component:
   - component: {fileID: 400114}
   - component: {fileID: 13700002}
+  - component: {fileID: 7541340019137395725}
+  - component: {fileID: 5543977279409391401}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -1996,6 +1998,33 @@ SkinnedMeshRenderer:
     m_Center: {x: -25.094444, y: -11.817874, z: -0.6536484}
     m_Extent: {x: 31.514194, y: 23.210709, z: 32.905678}
   m_DirtyAABB: 0
+--- !u!136 &7541340019137395725
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100114}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 16.727837
+  m_Height: 42.81003
+  m_Direction: 1
+  m_Center: {x: 0.6536551, y: -3.1859407, z: 33.1548}
+--- !u!65 &5543977279409391401
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100114}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 26.208363, y: 33.560802, z: 36.971916}
+  m_Center: {x: -0.3303369, y: -7.198115, z: 67.44474}
 --- !u!1 &100116
 GameObject:
   m_ObjectHideFlags: 0

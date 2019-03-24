@@ -1256,6 +1256,7 @@ GameObject:
   - component: {fileID: 4533444614477862}
   - component: {fileID: 95371728100821360}
   - component: {fileID: 64733213901432876}
+  - component: {fileID: 2208998458802188253}
   m_Layer: 8
   m_Name: rockgolem
   m_TagString: Untagged
@@ -1312,6 +1313,19 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 14
   m_Mesh: {fileID: 0}
+--- !u!65 &2208998458802188253
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694707009694540}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.039761, y: 4.8650393, z: 2.308268}
+  m_Center: {x: 0.17416501, y: 2.3659837, z: 0.060771465}
 --- !u!1 &1714121806856554
 GameObject:
   m_ObjectHideFlags: 0

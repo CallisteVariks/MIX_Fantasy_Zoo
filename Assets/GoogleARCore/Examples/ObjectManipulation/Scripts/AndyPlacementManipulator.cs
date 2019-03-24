@@ -96,7 +96,7 @@ namespace GoogleARCore.Examples.ObjectManipulation
 
                     // Instantiate manipulator.
                     var manipulator = Instantiate(ManipulatorPrefab, hit.Pose.position, hit.Pose.rotation);
-
+                    
                     // Make Andy model a child of the manipulator.
                     andyObject.transform.parent = manipulator.transform;
 
