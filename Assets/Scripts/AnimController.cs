@@ -5,48 +5,48 @@ namespace Scripts
     internal class AnimController : MonoBehaviour
     {
         private Animator animator;
-
-        public void Anim1(GameObject gameObject)
+        public GameObject gameObj;
+        public void Anim1()
         {
-            if (gameObject.CompareTag("redDragon"))
+            if (gameObj.CompareTag("redDragon"))
             {
-                Animation animation = gameObject.GetComponent<Animation>();
+                Animation animation = gameObj.GetComponent<Animation>();
 
                 animation.Play("sj001_run");
             }
             else
             {
-                animator = gameObject.GetComponent<Animator>();
+                animator = gameObj.GetComponent<Animator>();
                 animator.Play("run");
             }
         }
 
-        public void Anim2(GameObject gameObject)
+        public void Anim2()
         {
-            if (gameObject.CompareTag("redDragon"))
+            if (gameObj.CompareTag("redDragon"))
             {
-                Animation animation = gameObject.GetComponent<Animation>();
+                Animation animation = gameObj.GetComponent<Animation>();
 
                 animation.Play("sj001_skill2");
             }
             else
             {
-                animator = gameObject.GetComponent<Animator>();
+                animator = gameObj.GetComponent<Animator>();
                 animator.Play("attack 1");
             }
         }
 
-        public void Anim3(GameObject gameObject)
+        public void Anim3()
         {
-            if (gameObject.CompareTag("redDragon"))
+            if (gameObj.CompareTag("redDragon"))
             {
-                Animation animation = gameObject.GetComponent<Animation>();
+                Animation animation = gameObj.GetComponent<Animation>();
 
                 animation.Play("sj001_skill1");
             }
             else
             {
-                animator = gameObject.GetComponent<Animator>();
+                animator = gameObj.GetComponent<Animator>();
                 animator.Play("attack 2");
             }
         }

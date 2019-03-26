@@ -19,6 +19,8 @@
 //-----------------------------------------------------------------------
 
 using System;
+using Scripts;
+using UnityEngine.UI;
 
 namespace GoogleARCore.Examples.ObjectManipulation
 {
@@ -49,7 +51,10 @@ namespace GoogleARCore.Examples.ObjectManipulation
 
         public GameObject InfoPanel;
         public GameObject SkillsPanel;
-
+        public Text text;
+        public Button button1;
+        public Button button2;
+        public Button button3;
 
         /// <summary>
         /// Gets the ManipulationSystem instance.
@@ -178,9 +183,15 @@ namespace GoogleARCore.Examples.ObjectManipulation
             InfoPanel.SetActive(true);
             SkillsPanel.SetActive(true);
 
-            UnityEngine.UI.Text text = InfoPanel.GetComponentInChildren<UnityEngine.UI.Text>();
-            UnityEngine.UI.Button[] buttons = SkillsPanel.GetComponentsInChildren<UnityEngine.UI.Button>();
+            Text text = InfoPanel.GetComponentInChildren<UnityEngine.UI.Text>();
+            //var text = GameObject.Find(InfoPanel.name);
 
+            Button[] buttons = SkillsPanel.GetComponentsInChildren<UnityEngine.UI.Button>();
+
+           
+
+            Debug.Log(text);
+            //Debug.Log(buttons.Length);
             switch (go.tag)
             {
                 case "redDragon":
@@ -190,16 +201,11 @@ namespace GoogleARCore.Examples.ObjectManipulation
                     break;
             }
 
-            try
-            {
-                buttons[0].onClick.AddListener(() => buttons[0].GetComponent<Scripts.AnimController>().Anim1(go));
-                buttons[1].onClick.AddListener(() => buttons[1].GetComponent<Scripts.AnimController>().Anim2(go));
-                buttons[2].onClick.AddListener(() => buttons[2].GetComponent<Scripts.AnimController>().Anim3(go));
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
+           
+                button1.GetComponent<AnimController>().gameObj = go;
+                button2.GetComponent<AnimController>().gameObj = go;
+                button3.GetComponent<AnimController>().gameObj = go;
+           
         }
     }
 }
